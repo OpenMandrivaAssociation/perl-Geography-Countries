@@ -15,7 +15,6 @@ Source:     http://www.cpan.org/modules/by-module/Ceography/%{module}-%{version}
 BuildRequires:	perl-devel
 %endif
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This module maps country names, and their 2-letter, 3-letter and
