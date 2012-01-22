@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	%mkrel 3
+Release:	%mkrel 4
 
 Summary:	Maps 2-letter, 3-letter, and numerical codes for countries
 License:	MIT
