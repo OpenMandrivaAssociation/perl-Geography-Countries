@@ -4,7 +4,7 @@
 Summary:	Maps 2-letter, 3-letter, and numerical codes for countries
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	11
+Release:	12
 License:	MIT
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}
