@@ -3,12 +3,12 @@
 
 Summary:	Maps 2-letter, 3-letter, and numerical codes for countries
 Name:		perl-%{modname}
-Version:	%perl_convert_version %{modver}
-Release:	18
+Version:	%{modver}
+Release:	19
 License:	MIT
 Group:		Development/Perl
-Url:		https://search.cpan.org/dist/%{modname}
-Source0:	http://www.cpan.org/modules/by-module/Geography/%{modname}-%{modver}.tar.gz
+Url:		https://github.com/Abigail/geography--countries
+Source0:	https://cpan.metacpan.org/authors/id/A/AB/ABIGAIL/Geography-Countries-%{modver}.tar.gz
 BuildArch:	noarch
 BuildRequires:	make
 BuildRequires:	perl-devel
